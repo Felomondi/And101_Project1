@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Hello Felix</string>
+
+    <string name="first_name">Felix</string>
+    <string name="last_name">Omondi</string>
+    <string name="full_name">%s %s</string>
+
+    <string name="profile_bio_text">I am a sophomore at Vassar College📚.\nComputer Science Major💻 and\n Statistics minor📊.
+    I am from \nNairobi, Kenya but I am currently based in \nPoughkeepsie, NY 🏙️</string>
+
+    <string name="profile_hobby_header_text">My Top 3 Hobbies:</string>
+    <string name="profile_hobby_first_text">🥇 Hip hop Dancing 🕺🏽</string>
+    <string name="profile_hobby_second_text">🥈 Travelling whenever I can.✈️ </string>
+    <string name="profile_hobby_third_text">🥉 Soccer ⚽️</string>
+</resources>
